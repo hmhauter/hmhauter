@@ -3,7 +3,7 @@
 - 👀 I’m interested in Software Engineering and Robotics
 - 👩‍💻 I'm currently studying Autonomous Systems at the Technical University of Denmark
 - 👷‍♀️ I'm working as a Software Developer and Data Scientist in Copenhagen
-- 🌱 I’m currently learning a lot about Drones, Robotics and Computer Vision
+- 🌱 I’m currently learning a lot about Automation, Control of USVs and Computer Vision
 
 ### 🛠️ My favorite languages and frameworks:
 <div>
