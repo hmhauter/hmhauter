@@ -1,8 +1,8 @@
 ### ✨: About me:
 - 👋 Hi, I’m Helena aka @hmhauter
 - 👀 I’m interested in Software Engineering and Robotics
-- 👩‍💻 I'm studied Autonomous Systems at the Technical University of Denmark and Engineering Science at the Technical University of Munich
-- 👷‍♀️ I'm working as an Automation Engineer for life science laboratories in Copenhagen
+- 👩‍💻 I studied Autonomous Systems at the Technical University of Denmark and Engineering Science at the Technical University of Munich
+- 👷‍♀️ I'm part of a graduate programme at a pharma company in Copenhagen deep diving into manufacturing technologies
 - 🌱 I’m currently learning a lot about Automation, Computer Vision and manufacturing in pharma
 
 ### 🛠️ My favorite languages and frameworks:
